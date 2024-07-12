@@ -1,0 +1,25 @@
+{
+  "name": "acesnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+<<<<<<< HEAD
+=======
+    "dotenv": "^16.4.5",
+>>>>>>> c762795eda0be1f0fc959d701f9c3326f2d0222f
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.5",
+    "multer": "^1.4.5-lts.1"
+  }
+}
